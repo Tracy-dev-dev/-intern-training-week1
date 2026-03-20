@@ -1,4 +1,4 @@
 Tracy 
 GIT is a system that stores different versions of your work without having more than one file of the work 
-commit represents each version of your work and any change made .For example say you are working on a project and there are many versions of your code ,git is the version control system that stores the different versions of your code and allows you to freely navigate throught them as well as make changes and choose the ersion you want to work with .
-
+commit represents each version of your work and any change made .For example say you are working on a project and there are many versions of your code ,git is the version control system that stores the different versions of your code and allows you to freely navigate throught them as well as make changes and choose the version you want to work with .
+ 
