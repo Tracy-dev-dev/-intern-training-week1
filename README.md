@@ -1,1 +1,1 @@
-# -intern-training-week1
+ Git is a version control system # -intern-training-week1 
