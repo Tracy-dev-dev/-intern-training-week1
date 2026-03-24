@@ -1,1 +1,1 @@
-# -intern-training-week1
+Git is a system that strores different versions of your project and lets you work on each seperately and choose the bestv.# -intern-training-week1
